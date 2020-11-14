@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const converter = require("../lib/converter");
 
 const argument = process.argv.splice(2);

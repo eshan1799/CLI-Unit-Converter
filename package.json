@@ -2,16 +2,13 @@
   "name": "CLI-Measurement-Translator",
   "version": "1.0.0",
   "description": "",
-  "main": "./lib/convert.js",
-  "bin": {
-    "converter": "./bin/index.js"
-  },
-  "directories": {
-    "lib": "lib"
-  },
+  "main": "./lib/converter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+      "converter": "./bin/index.js"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eshan1799/CLI-Measurement-Translator.git"
