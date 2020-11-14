@@ -1,7 +1,7 @@
-const convert = require("../lib/convert");
+const converter = require("../lib/converter");
 
 const argument = process.argv.splice(2);
 
 console.log(
-    convert.convert(argument)
+    converter.converter(argument)
 );

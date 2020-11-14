@@ -4,7 +4,7 @@
   "description": "",
   "main": "./lib/convert.js",
   "bin": {
-    "convert": "./bin/index.js"
+    "converter": "./bin/index.js"
   },
   "directories": {
     "lib": "lib"
