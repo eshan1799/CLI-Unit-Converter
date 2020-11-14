@@ -4,11 +4,11 @@
   "description": "A CLI application that converts centimetres into metres and vice versa!",
   "main": "./lib/converter.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nyc --reporter=text npx mocha \"lib/**/*.test.js\" --recursive --require @babel/register"
   },
   "bin": {
-      "converter": "./bin/index.js"
-    },
+    "converter": "./bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eshan1799/CLI-Measurement-Translator.git"
@@ -19,5 +19,15 @@
   "bugs": {
     "url": "https://github.com/eshan1799/CLI-Measurement-Translator/issues"
   },
-  "homepage": "https://github.com/eshan1799/CLI-Measurement-Translator#readme"
+  "homepage": "https://github.com/eshan1799/CLI-Measurement-Translator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/register": "^7.12.1",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0",
+    "rewire": "^5.0.0"
+  }
 }
