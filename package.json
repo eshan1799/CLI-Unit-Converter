@@ -1,0 +1,26 @@
+{
+  "name": "CLI-Measurement-Translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "CLI-Measurement-Translator": "index.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshan1799/CLI-Measurement-Translator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eshan1799/CLI-Measurement-Translator/issues"
+  },
+  "homepage": "https://github.com/eshan1799/CLI-Measurement-Translator#readme"
+}
