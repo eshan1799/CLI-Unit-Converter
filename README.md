@@ -23,6 +23,8 @@ A CLI application that converts centimetres into metres and vice versa!
 * String format: 
 ```x unit1 in unit2```
 
+* Supported units: cm (centimetres) & m (metres)
+
 #### Global
 
 * ```converter "'enter string here'" ```
