@@ -1,6 +1,6 @@
 {
   "name": "@eshan1799/unitconverter",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A CLI application that converts centimetres into metres and vice versa!",
   "main": "./lib/converter.js",
   "scripts": {
