@@ -9,8 +9,8 @@ A CLI application that converts centimetres into metres and vice versa!
 * ```npm i -g @eshan1799/unitconverter```
 
 #### Prerequisites
-* [Node.js](https://nodejs.org/en/)
-* [npm](https://www.npmjs.com/get-npm)
+* [Node.js](https://nodejs.org/en/){:target="_blank" rel="noopener"}
+* [npm](https://www.npmjs.com/get-npm){:target="_blank" rel="noopener"}
 
 ## Usage
 
