@@ -27,7 +27,7 @@ A CLI application that converts centimetres into metres and vice versa!
 
 * ```converter "'enter string here'" ```
 
-##### Example
+###### Example
 * ```converter "5 m in cm" ```
 --> output: 
 ```"500 cm"```
@@ -40,7 +40,7 @@ A CLI application that converts centimetres into metres and vice versa!
 
 * ```npm run converter```
 
-##### Example
+###### Example
 * ```"converter": "converter \"5 m in cm\"" ```
 * ```npm run converter```  
   
