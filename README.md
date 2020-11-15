@@ -10,7 +10,7 @@ A CLI application that converts centimetres into metres and vice versa!
 
 ```converter "'enter string here'" ```
 
-Input string expected format: 
+String format: 
 ```x unit1 in unit2```
 
 #### Example
