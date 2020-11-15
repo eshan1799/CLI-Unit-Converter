@@ -6,15 +6,15 @@ A CLI application that converts centimetres into metres and vice versa!
 
 ## Installation
 
-### Global
+#### Global
 
 * ```npm install -g @eshan1799/unitconverter```
 
-### Local
+#### Local
 
 * ```npm install @eshan1799/unitconverter```
 
-#### Prerequisites
+##### Prerequisites
 * [Node.js](https://nodejs.org/en/)
 * [npm](https://www.npmjs.com/get-npm)
 
@@ -23,7 +23,7 @@ A CLI application that converts centimetres into metres and vice versa!
 * String format: 
 ```x unit1 in unit2```
 
-### Global
+#### Global
 
 * ```converter "'enter string here'" ```
 
@@ -32,7 +32,7 @@ A CLI application that converts centimetres into metres and vice versa!
 --> output: 
 ```"500 cm"```
 
-### Local
+#### Local
 
 * Add script(s) in your package.json
 
