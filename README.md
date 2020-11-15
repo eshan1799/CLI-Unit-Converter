@@ -20,10 +20,10 @@ A CLI application that converts centimetres into metres and vice versa!
 
 ## Usage
 
+* Supported units: cm (centimetres) & m (metres)
+
 * String format: 
 ```x unit1 in unit2```
-
-* Supported units: cm (centimetres) & m (metres)
 
 #### Global
 
