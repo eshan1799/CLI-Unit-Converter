@@ -8,7 +8,7 @@ A CLI application that converts centimetres into metres and vice versa!
 
 ## Usage
 
-Type into your terminal: converter "'enter string here'"
+Type into your terminal: ```converter "'enter string here'"
 
 Input string expected format: x unit1 in unit2
 
