@@ -1,6 +1,6 @@
 {
   "name": "@eshan1799/unitconverter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A CLI application that converts centimetres into metres and vice versa!",
   "main": "./lib/converter.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/eshan1799/CLI-Measurement-Translator.git"
   },
-  "keywords": [],
+  "keywords": ["units-converter"],
   "author": "",
   "license": "ISC",
   "bugs": {
