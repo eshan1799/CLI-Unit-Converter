@@ -10,12 +10,12 @@ A CLI application that converts centimetres into metres and vice versa!
 
 ## Usage
 
-```converter "'enter string here'" ```
+* ```converter "'enter string here'" ```
 
-String format: 
+* String format: 
 ```x unit1 in unit2```
 
 #### Example
-```converter "5 m in cm" ```
+* ```converter "5 m in cm" ```
 --> output: 
 ```"500 cm"```
